@@ -5,7 +5,7 @@ The purpose of this analysis was to analyze the grade data for Thomas High Schoo
 
 # Results
 
-*The following results reflect the data changes after the 9th grade reading and math scores for Thomas High School were assigned blank values
+__The following results reflect the data changes after the 9th grade reading and math scores for Thomas High School were assigned blank values__
 
 * The district summary was affected as follows:
   * Average math score dropped from 79.0 to 78.9
