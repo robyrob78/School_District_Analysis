@@ -11,7 +11,7 @@ __The following results reflect the data changes after the 9th grade reading and
   * Average math score dropped from 79.0 to 78.9
   * The math passing percentage dropped from 75% to 74.8%
   * The reading passing percentage dropped from 86% to 85.7%
-  * The overall passing percentage dropped from 65 to 64.9
+  * The overall passing percentage dropped from 65 to 64.9%
 
 * The school summary for Thomas High School was affected as follows
  * The Average math score dropped from 83.42 to 83.35
@@ -28,5 +28,5 @@ __The following results reflect the data changes after the 9th grade reading and
 * Scores by school type: There was no significant change
  
  # Summary
- Initially upon replacing the 9th grade scores at Thomas High School with NaNs, their scores dropped significantly. Their passing math % dropped from 
+Initially upon replacing the 9th grade scores at Thomas High School with NaNs, their scores dropped significantly. Their passing math % dropped from 93% to 67%. Their passing reading % dropped from 97% to 70%. Their overall passing % dropped from 91% to 65%. However, these percentages included the 9th grade students who all had blank values in their scores. This artificially tanked the schools performance. Upon recalculating the school's passing percentages using 10th-12th grade data and eliminating the empty student values that were still being counted, the school's performance was on par with it's numbers before we removed the 9th grade data. In conclusion, there is no evidence of academic dishonesty. 
 
